@@ -1,4 +1,4 @@
-core-sprin-distilled-tools
-==========================
+# Core Spring Distilled Tools
 
-Tools used for working on the Koans for Core Spring Distilled.
+A collection of simple tools for working with the Core Spring Distilled Koans.
+
