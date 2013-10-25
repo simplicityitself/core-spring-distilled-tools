@@ -33,7 +33,7 @@ else
   rm -Rf $2/start/classes
   rm -Rf $2/complete/*.iml
   rm -Rf $2/complete/.idea
-  rm -Rf $2/start/classes
+  rm -Rf $2/complete/classes
 
   echo "New Koan created in: $2, based on Koan in: $1"; echo
   echo "You still need to update the README and gradle.settings for the new Koan number."; echo
